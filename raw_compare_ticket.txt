@@ -1,0 +1,2 @@
+This security update resolves a vulnerability in Microsoft Windows. The vulnerability could allow Secure Boot security features to be bypassed if an attacker installs an affected policy on a target device. An attacker must have either administrative privileges or physical access to install a policy and bypass Secure Boot.
+Important
