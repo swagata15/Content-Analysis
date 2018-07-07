@@ -1,4 +1,4 @@
-# Yama Ahmadullah
+# Swagata Ashwani
 # Original Creation Date - 20171116
 # Last Modified Date - 20171211
 # Activity 2 - this program includes the steps of Activity 1 plus coming up with
